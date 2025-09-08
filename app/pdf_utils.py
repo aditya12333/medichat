@@ -1,4 +1,4 @@
-from pypdf import pdf, PdfReader, PdfWriter
+from pypdf import  PdfReader, PdfWriter
 from typing import List, Optional
 from io import BytesIO
 
